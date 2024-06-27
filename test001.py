@@ -15,6 +15,7 @@ class MyApp(App):
 
         return btn
 
+
     def on_button_click(self, instance):
         print('Botão clicado!')
 
