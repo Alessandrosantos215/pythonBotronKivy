@@ -19,5 +19,8 @@ class MyApp(App):
         print('Botão clicado!')
 
 
+
+
+
 if __name__ == '__main__':
     MyApp().run()
