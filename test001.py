@@ -18,5 +18,8 @@ class MyApp(App):
     def on_button_click(self, instance):
         print('Botão clicado!')
 
+
+
+
 if __name__ == '__main__':
     MyApp().run()
